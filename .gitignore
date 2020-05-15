@@ -1,0 +1,10 @@
+/api-model/
+/bx-cloud/
+/bx-commons/
+/bx-core-server/
+/bx-files-server/
+/bx-gateway-zuul/
+/bx-transaction-server/
+/commons/
+/register-config-center/
+/user-center/

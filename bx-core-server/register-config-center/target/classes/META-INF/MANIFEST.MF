@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: register-config-center
+Implementation-Version: 2.0
+Built-By: Logan
+Implementation-Vendor-Id: com.cloud
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/bx-cloud/bx-core-server/register-config-center
+Created-By: Maven Integration for Eclipse
+
